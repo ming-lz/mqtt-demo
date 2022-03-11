@@ -1,0 +1,6 @@
+server:
+  port: 8909
+
+spring:
+  profiles:
+    active: test
