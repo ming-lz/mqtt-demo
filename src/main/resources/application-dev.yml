@@ -1,6 +1,6 @@
 mqtt:
   version: v5
-  url: tcp://127.0.0.1:1883
+  server: tcp://127.0.0.1:1883
   client-id: test001
   username: admin
   password: public
